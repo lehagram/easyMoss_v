@@ -12,7 +12,7 @@ Parameters can be adjusted manually or automatically in order for the simulation
 ____
 
 easyMoss is written in Python3 and is based on a PYQT5 graphical interface.
-The following esternal libraries need to be installed 
+The following esternal libraries are called 
 - numpy
 - scipy
 - matplotlib
